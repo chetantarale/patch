@@ -1,6 +1,6 @@
 #!/bin/bash -e
 declare -a os=('u12' 'u14')
-declare -a languages=('clo' 'gol' 'jav' 'nod' 'php' 'pyt' 'rub' 'sca')
+declare -a languages=('rub')
 declare -a languageVersions=('' 'pls' 'all')
 
 imageTag="prod"
